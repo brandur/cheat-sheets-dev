@@ -1,7 +1,7 @@
 Cheat Sheets
 ============
 
-A set of cheat sheets designed to centralize information to quicken the development process.
+A set of cheat sheets designed to centralize information and speed up the development process.
 
 Languages
 ---------
